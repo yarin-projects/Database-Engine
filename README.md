@@ -4,7 +4,7 @@
 
 This repository demonstrates a basic implementation of a database engine with various types of indices. The database engine supports unique indices, non-unique indices, and range indices. The provided code defines a set of classes to manage these indices and the database records.
 
-The project was completed on 29th April, 2024.
+The project was completed on April, 2024.
 
 ## Code Structure
 
